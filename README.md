@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=AJ-GIT-HUB900&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub&descAlignY=51&descAlign=62)
 ![3D GitHub Contribution Graph](profile-3d-contrib/profile-night-green.svg)
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=AJ-GIT-HUB900&theme=dracula&margin-w=15&margin-h=15" />
-</a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AJ-GIT-HUB900/AJ-GIT-HUB900/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AJ-GIT-HUB900/AJ-GIT-HUB900/output/github-contribution-grid-snake.svg">
