@@ -1,4 +1,5 @@
 ## Hi there 👋
+![3D GitHub Contribution Graph](profile-3d-contrib/profile-night-green.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AJ-GIT-HUB900/AJ-GIT-HUB900/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AJ-GIT-HUB900/AJ-GIT-HUB900/output/github-contribution-grid-snake.svg">
