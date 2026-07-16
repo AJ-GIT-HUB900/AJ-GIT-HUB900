@@ -6,7 +6,6 @@
 </a>
 </div>
 
-About Me
 Welcome to my digital workspace! I am a software developer with a strong foundation in object-oriented programming and web development. I enjoy writing clean, efficient code and tackling complex logic problems. 
 *   **🌱 Currently exploring:** Advanced software architecture and optimization.
 *   **💡 Interests:** Backend development, algorithms, and building scalable applications.
