@@ -31,9 +31,3 @@ Welcome to my digital workspace! I am a software developer with a strong foundat
     <img src="https://github-readme-trophy.vercel.app/?username=AJ-GIT-HUB900&theme=tokyonight&margin-w=15&margin-h=15" alt="AJ's Trophies" />
   </a>
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AJ-GIT-HUB900&theme=tokyonight&hide_border=true&title_color=00ff00&v=1" alt="GitHub Streak" />
-</div>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=AJ-GIT-HUB900&theme=tokyonight&hide_border=true&title_color=00ff00&v=1)
